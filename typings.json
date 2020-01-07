@@ -1,0 +1,5 @@
+{
+  "globalDependencies": {
+    "electron-window-state": "registry:dt/electron-window-state#2.0.0+20161102134001"
+  }
+}
